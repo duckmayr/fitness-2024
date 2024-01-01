@@ -1,1 +1,20 @@
-# fitness-2024
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Fitness Journey 2024
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+At the beginning of 2024, I set the following goals for myself, to be
+able to:
+
+- Run a 7 minute mile
+- Bench press 2 times my weight
+- Leg press 4 times my weight
+- Do 20 consecutive pull ups
+
+I also would like to end up weighing around 180 pounds, though that’s
+secondary. Given my current abilities, it is theoretically possible I’ll
+reach these goals by the end of 2024, but I actually expect it’s most
+likely I reach my goals some time in 2025.
